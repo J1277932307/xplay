@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xplay", "xplay.vcxproj", "{EB3B2164-380D-43D0-BF0F-1FFF6EBF1479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3B2164-380D-43D0-BF0F-1FFF6EBF1479}.Debug|x64.ActiveCfg = Debug|x64
+		{EB3B2164-380D-43D0-BF0F-1FFF6EBF1479}.Debug|x64.Build.0 = Debug|x64
+		{EB3B2164-380D-43D0-BF0F-1FFF6EBF1479}.Release|x64.ActiveCfg = Release|x64
+		{EB3B2164-380D-43D0-BF0F-1FFF6EBF1479}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3884FD44-2930-4CC0-9BC0-601B96E09FEA}
+	EndGlobalSection
+EndGlobal
